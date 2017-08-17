@@ -14,4 +14,3 @@ Resources:
           Properties:
             Path: /TimeResource
             Method: GET
-            StageName: dev
